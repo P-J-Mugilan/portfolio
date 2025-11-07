@@ -4,9 +4,10 @@
   "description": "Professional portfolio of P J Mugilan - Java Backend Developer",
   "main": "index.html",
   "scripts": {
-    "start": "serve -s . -l 3000"
+    "start": "serve -s . -l 3000",
+    "build": "echo 'No build process needed for static site'"
   },
-  "keywords": ["portfolio", "java", "backend", "developer"],
+  "keywords": ["portfolio", "java", "backend", "developer", "p-j-mugilan"],
   "author": "P J Mugilan",
   "license": "MIT",
   "devDependencies": {
