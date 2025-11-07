@@ -4,7 +4,6 @@ Professional portfolio website- Java Backend Developer specializing in Spring Bo
 
 ## 🚀 Features
 - Responsive design for all devices
-- SEO optimized for "P J Mugilan" and "Mugilan" searches
 - Professional experience section
 - Project showcase with live demos
 - Contact integration
