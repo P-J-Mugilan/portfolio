@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Sitemap: https://pjmugilan.netlify.app/sitemap.xml
+
+# P J Mugilan Portfolio - Java Backend Developer
+# Mugilan - Professional Portfolio
