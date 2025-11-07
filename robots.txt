@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /assets/
-Sitemap: https://pjmugilan.netlify.app/sitemap.xml
+Sitemap: https://pjmugilan.onrender.com/sitemap.xml
 
 # P J Mugilan Portfolio - Java Backend Developer
-# Mugilan - Professional Portfolio
+# Professional portfolio showcasing Spring Boot, Hibernate, REST APIs skills

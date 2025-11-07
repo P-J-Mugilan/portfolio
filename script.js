@@ -137,6 +137,25 @@ function initNavigation() {
     initFocusTrap(navLinks, hamburger);
 }
 
+// Experience section animation
+const experienceObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.style.opacity = '1';
+            entry.target.style.transform = 'translateY(0)';
+        }
+    });
+}, { threshold: 0.1 });
+
+// Observe experience items
+document.querySelectorAll('.experience-item').forEach(item => {
+    item.style.opacity = '0';
+    item.style.transform = 'translateY(30px)';
+    item.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    experienceObserver.observe(item);
+});
+
+
 /**
  * Initialize smooth scrolling with enhanced user experience
  */

@@ -1,15 +1,30 @@
 {
   "name": "pjmugilan-portfolio",
   "version": "1.0.0",
-  "description": "Professional portfolio of P J Mugilan - Java Backend Developer",
+  "description": "Professional portfolio of P J Mugilan - Java Backend Developer specializing in Spring Boot, Hibernate, REST APIs, and MySQL",
   "main": "index.html",
   "scripts": {
     "start": "serve -s . -l 3000",
     "build": "echo 'No build process needed for static site'"
   },
-  "keywords": ["portfolio", "java", "backend", "developer", "p-j-mugilan"],
+  "keywords": [
+    "portfolio",
+    "java",
+    "backend",
+    "developer",
+    "spring-boot",
+    "hibernate",
+    "rest-apis",
+    "p-j-mugilan",
+    "mugilan"
+  ],
   "author": "P J Mugilan",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/P-J-Mugilan/portfolio"
+  },
+  "homepage": "https://pjmugilan.onrender.com",
   "devDependencies": {
     "serve": "^14.2.0"
   }
