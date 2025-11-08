@@ -360,7 +360,7 @@ function initResumeDownload() {
                     // File exists - proceed with download
                     const link = document.createElement('a');
                     link.href = resumeUrl;
-                    link.download = 'PJ-Mugilan-Resume.pdf';
+                    link.download = 'P-J-Mugilan-Resume.pdf';
                     link.style.display = 'none';
                     document.body.appendChild(link);
                     link.click();
