@@ -17,7 +17,7 @@ Professional portfolio website- Java Backend Developer specializing in Spring Bo
 ## 📧 Contact
 - **Email**: pjmugilan@gmail.com
 - **LinkedIn**: [P J Mugilan](https://www.linkedin.com/in/mugilanjagadeesan/)
-- **Portfolio**: https://pjmugilan.netlify.app
+- **Portfolio**: https://pjmugilan.onrender.com/
 
 ## 👨‍💻 Developer
 **P J Mugilan** - Java Backend Developer  
